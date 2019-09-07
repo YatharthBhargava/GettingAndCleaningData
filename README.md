@@ -19,6 +19,9 @@ Only features having either mean() or std() were considered for tidying the data
 
 
 ##Working of the script
+
+
+
 1.Reading the features and storing it in a dataframe.
 2.Reading the training and the testing data and renaming the columns as per the features.
 3.Merging the training and testing set.
